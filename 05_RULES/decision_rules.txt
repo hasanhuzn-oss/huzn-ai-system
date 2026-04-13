@@ -1,0 +1,3 @@
+IF margin < 25% → evaluasi
+IF penjualan tinggi → produksi ulang
+IF stok rendah → restock

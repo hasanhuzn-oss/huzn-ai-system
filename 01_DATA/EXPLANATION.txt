@@ -1,0 +1,9 @@
+Kolom penting:
+
+- Produk
+- HPP
+- Harga Jual
+- Qty
+- Profit
+
+Gunakan ini untuk analisa
